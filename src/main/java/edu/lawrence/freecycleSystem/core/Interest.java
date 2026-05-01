@@ -1,5 +1,4 @@
 package edu.lawrence.freecycleSystem.core;
-
 public class Interest {
 	private int interest_id;
 	private String  item_id;
